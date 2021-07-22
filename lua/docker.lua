@@ -2,7 +2,7 @@ require 'utils'
 local api = vim.api
 local fn = vim.fn
 local loop = vim.loop
-local util = require 'nvim_lsp/util'
+local util = require 'lspconfig/util'
 
 local M = {}
 
